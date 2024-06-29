@@ -3,6 +3,7 @@ import Tilt from 'react-parallax-tilt';
 import brain from './brain.png';
 import './Logo.css'
 
+
 const Logo = () => {
     return (
         <div className='absolute ma4' style={{ top: '20px', left: '20px' }}>

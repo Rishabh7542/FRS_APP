@@ -6,7 +6,6 @@ import Rank from './Components/Rank/Rank';
 import ParticlesBg from 'particles-bg';
 import './App.css';
 
-
 class App extends React.Component {
   render(){
     return (
